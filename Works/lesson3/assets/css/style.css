@@ -1,0 +1,40 @@
+img{
+    width: 25%;
+    border-radius: 50%;
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+    color: gray;
+    font-size: 70px;
+    font-weight: bolder;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    color: gainsboro;
+    font-size: 35px;
+}
+td{
+    border:2px dashed black;
+}
+th{
+    border:2px solid black;
+}
+body{
+    font-family: 'Stick No Bills', sans-serif;
+    background: rgb(136,131,209);
+background: linear-gradient(90deg, rgba(136,131,209,1) 0%, rgba(136,203,221,1) 35%, rgba(172,114,200,1) 100%);
+}
+td:hover{
+    border:3px solid white;
+    background: rgb(184,180,255);
+background: linear-gradient(90deg, rgba(184,180,255,1) 0%, rgba(136,203,221,1) 49%, rgba(171,215,255,1) 100%);
+}
+h1:hover{
+    color: blueviolet;
+}
+th:hover{
+    color: blueviolet;
+}

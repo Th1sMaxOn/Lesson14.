@@ -1,0 +1,33 @@
+body{
+    font-family: 'Quicksand', sans-serif; 
+    background: rgb(215,61,108);
+background: linear-gradient(90deg, rgba(215,61,108,1) 0%, rgba(213,114,118,1) 25%, rgba(214,194,188,1) 50%, rgba(192,204,204,1) 75%, rgba(101,178,198,1) 100%);
+}
+h1{
+    text-align: center;
+    font-size: 55px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+table{
+    border: 2px dashed black;
+    width: 1450;
+    height: 950;
+    margin: 15px auto;
+}
+p:hover{
+    border-left: 4px solid dodgerblue;
+}
+
+code{
+    color: goldenrod
+}
+p{
+    font-size: 25px;
+    border-left: 4px solid blue;
+    line-height: 55px;
+    text-align: middle;
+    padding: 10px;
+}
